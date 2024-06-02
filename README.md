@@ -37,7 +37,7 @@ This is a decentralized crowdfunding application with NextJS and Solidity. In th
 
 1. First of all you need to clone the repository
 ```shell
-git clone https://github.com/boradesanket13/Nirman.git
+git clone https://github.com/boradesanket13/FundSeed.git
 ```
 2. Install the dependencies in client folder
 ```shell
