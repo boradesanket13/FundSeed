@@ -64,12 +64,13 @@ NEXT_PUBLIC_PRIVATE_KEY=Your Metamask Private Key (Get it from point 5)
 
 6. Create .env file in smart-contract in below mentioned format
 ```shell
-ACCOUNT_PRIVATE_KEY - Metamask private key
-PROJECT_ID - Alchemy API key
+ACCOUNT_PRIVATE_KEY=Metamask private key
+PROJECT_ID=Alchemy API key
 ```
 
 7. Deploy your smart contract
 ```shell
+cd ..
 cd smart-contract
 npx hardhat run scripts/deploy.js --network sepolia
 ```
