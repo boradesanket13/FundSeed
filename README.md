@@ -35,43 +35,49 @@ This is a decentralized crowdfunding application with NextJS and Solidity. In th
 
 ## :triangular_flag_on_post: Getting Started
 
-First of all you need to clone the repository and install the dependencies
-
+1. First of all you need to clone the repository
 ```shell
-
-git clone https://github.com/ahmedsemih/CrowdFunding-dApp.git
+git clone https://github.com/boradesanket13/Nirman.git
+```
+2. Install the dependencies in client folder
+```shell
 cd client
-npm install
+npm i
+```
+
+3. Install the dependencies in smart-contract folder
+```shell
 cd ..
 cd smart-contract
-npm install
-
+npm i
 ```
 
-After doing this you must create a project on Alchemy. Then assign the following environment variables
-
+4. After doing this you must create a project on [alchemy.com](alchemy.com) to assign the following environment variables.
+5. [Get your Metamask private key](https://support.metamask.io/managing-my-wallet/secret-recovery-phrase-and-private-keys/how-to-export-an-accounts-private-key/#:~:text=On%20the%20'Account%20details'%20page,private%20key%20to%20your%20clipboard.)
+6. Create .env file in client folder in below mentioned format 
 ```shell
+NEXT_PUBLIC_API_BASE_URL=API url (You can use this: http://localhost:3000/api)
+NEXT_PUBLIC_PROVIDER_URL=Alchemy url with your API key (For example: https://eth-sepolia.g.alchemy.com/v2/xxxxxxxxxxxxxxx)
+NEXT_PUBLIC_CONTRACT_ADDRESS=Address of your contract (You will get this after deploy your contract)
+NEXT_PUBLIC_PRIVATE_KEY=Your Metamask Private Key (Get it from point 5)
+```
 
---- CLIENT ---
-NEXT_PUBLIC_API_BASE_URL - API url like: http://localhost:3000/api
-NEXT_PUBLIC_PROVIDER_URL - Alchemy url with your API key
-NEXT_PUBLIC_CONTRACT_ADDRESS - Address of your contract ( You will get this after deploy your contract )
-NEXT_PUBLIC_PRIVATE_KEY - Metamask private key
-
---- SMART CONTRACT ---
+6. Create .env file in smart-contract in below mentioned format
+```shell
 ACCOUNT_PRIVATE_KEY - Metamask private key
 PROJECT_ID - Alchemy API key
-
 ```
 
-And deploy your smart contract then run your client
-
+7. Deploy your smart contract
 ```shell
-
---- SMART CONTRACT ---
+cd smart-contract
 npx hardhat run scripts/deploy.js --network sepolia
+```
 
---- CLIENT ---
+8. Copy the deplyed contract's address and assign it in client folder's env
+9. Run your client
+```shell
+cd ..
+cd smart-contract
 npm run dev
-
 ```
