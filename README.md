@@ -29,12 +29,27 @@ This is a decentralized crowdfunding application with NextJS and Solidity. In th
 
 
 ## :camera_flash: Screenshots
-![cf-ss-1](https://github.com/ahmedsemih/CrowdFunding-dApp/assets/102798814/0db3daea-4ac2-469d-add6-396d91dbf210)
-![cf-ss-2](https://github.com/ahmedsemih/CrowdFunding-dApp/assets/102798814/d0d585bc-2327-4f4c-8c35-d6eecd512968)
-![cf-ss-3](https://github.com/ahmedsemih/CrowdFunding-dApp/assets/102798814/3d9aff93-3f39-44fe-8a6e-feb1dd1800d9)
-![cf-ss-4](https://github.com/ahmedsemih/CrowdFunding-dApp/assets/102798814/aa2272c6-5a91-46b0-aebd-c0fdd6b7e224)
-![cf-ss-5](https://github.com/ahmedsemih/CrowdFunding-dApp/assets/102798814/fbe3626d-9c1a-467d-ba03-5779acfc0762)
-![cf-ss-6](https://github.com/ahmedsemih/CrowdFunding-dApp/assets/102798814/b99f46d8-a93c-4c07-8ae4-00474b6024bf)
+
+###Home Page
+![1](https://github.com/boradesanket13/FundSeed/assets/79108273/bd895376-d4ef-4756-9c23-0a27415dfa86)
+
+###Campaigns Page for Donators
+![2](https://github.com/boradesanket13/FundSeed/assets/79108273/ed852e28-af7f-4d09-87fe-dda50893e1d1)
+
+![3](https://github.com/boradesanket13/FundSeed/assets/79108273/c1febe70-4c83-493f-987f-6b7e9526cd3f)
+
+###Single Campaign Page
+![4](https://github.com/boradesanket13/FundSeed/assets/79108273/4ce1e33d-d3de-4b15-9d3a-529b690da8b4)
+
+###Camapign Page for Fundraisers
+![5](https://github.com/boradesanket13/FundSeed/assets/79108273/6bb78683-ec9a-4565-9baf-93a0a970bf06)
+
+###Campaign Creation Page
+![6](https://github.com/boradesanket13/FundSeed/assets/79108273/8a1c5056-b58a-43f8-97db-f0eaac17e4a9)
+
+###Creaing the Campaign
+![7](https://github.com/boradesanket13/FundSeed/assets/79108273/7af01052-5323-45dd-9313-dad2568f9f83)
+
 
 ## :triangular_flag_on_post: Getting Started
 
