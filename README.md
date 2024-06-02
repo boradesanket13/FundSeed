@@ -30,24 +30,24 @@ This is a decentralized crowdfunding application with NextJS and Solidity. In th
 
 ## :camera_flash: Screenshots
 
-## Home Page
+## 🚀Home Page
 ![1](https://github.com/boradesanket13/FundSeed/assets/79108273/bd895376-d4ef-4756-9c23-0a27415dfa86)
 
-## Campaigns Page for Donators
+## 🚀Campaigns Page for Donators
 ![2](https://github.com/boradesanket13/FundSeed/assets/79108273/ed852e28-af7f-4d09-87fe-dda50893e1d1)
 
 ![3](https://github.com/boradesanket13/FundSeed/assets/79108273/c1febe70-4c83-493f-987f-6b7e9526cd3f)
 
-## Single Campaign Page
+## 🚀Single Campaign Page
 ![4](https://github.com/boradesanket13/FundSeed/assets/79108273/4ce1e33d-d3de-4b15-9d3a-529b690da8b4)
 
-## Camapign Page for Fundraisers
+## 🚀Camapign Page for Fundraisers
 ![5](https://github.com/boradesanket13/FundSeed/assets/79108273/6bb78683-ec9a-4565-9baf-93a0a970bf06)
 
-## Campaign Creation Page
+## 🚀Campaign Creation Page
 ![6](https://github.com/boradesanket13/FundSeed/assets/79108273/8a1c5056-b58a-43f8-97db-f0eaac17e4a9)
 
-## Creaing the Campaign
+## 🚀Creaing the Campaign
 ![7](https://github.com/boradesanket13/FundSeed/assets/79108273/7af01052-5323-45dd-9313-dad2568f9f83)
 
 
