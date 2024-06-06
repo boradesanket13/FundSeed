@@ -1,13 +1,34 @@
+<h1 align="center" style="font-weight: bold;">Fund Seed 💻
 
-# CrowdFunding dApp
 
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
+[![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
+[![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+</h1>
+
+<p align="center">This is a decentralized crowdfunding application with NextJS and Solidity. In this dapp peoples can create campaigns or donate to them.
+</p>
+
+<br>
 
 https://github.com/boradesanket13/FundSeed/assets/79108273/9c5be52c-a316-496c-984a-15c6e25e2100
 
+<br>
 
-This is a decentralized crowdfunding application with NextJS and Solidity. In this dapp peoples can create campaigns or donate to them.
+<p align="center">
+<a href="#Features">Features</a>
+<a href="#technologies">Technologies</a>
+<a href="#Screenshots">Screenshots</a>
+<a href="#started">Getting Started</a>
+<a href="#colab">Collaborators</a>
+<a href="#contribute">Contribute</a> 
+</p>
 
-## :bulb: Features
+
+
+<h2 id="Features">💻 Features</h2>
 
 - Dark Theme
 - Responsive UI
@@ -16,7 +37,7 @@ This is a decentralized crowdfunding application with NextJS and Solidity. In th
 - Donate or Withdraw Ethereum
 - Decentralized
 
-## :hammer_and_wrench: Built With
+<h2 id="technologies">💻 Technologies</h2>
 
 - [Solidity](https://soliditylang.org/) - Smart Contract Language
 - [React](https://reactjs.org/) - JavaScript library for UI
@@ -27,9 +48,10 @@ This is a decentralized crowdfunding application with NextJS and Solidity. In th
 - [Ethers](https://docs.ethers.org/v5/) Smart Contract Interaction Library
 - [React Icons](https://react-icons.github.io/react-icons/) - Icon Library
 
+ 
+<h2 id="Screenshots">💻 Screenshots</h2>
 
-## :camera_flash: Screenshots
-
+ 
 ## 🚀Home Page
 ![1](https://github.com/boradesanket13/FundSeed/assets/79108273/bd895376-d4ef-4756-9c23-0a27415dfa86)
 
@@ -51,7 +73,22 @@ This is a decentralized crowdfunding application with NextJS and Solidity. In th
 ![7](https://github.com/boradesanket13/FundSeed/assets/79108273/7af01052-5323-45dd-9313-dad2568f9f83)
 
 
-## :triangular_flag_on_post: Getting Started
+
+
+
+<h2 id="started">🚀 Getting started</h2>
+[(Back to top)](#table-of-contents)
+
+Here you describe how to run your project locally
+ 
+<h3>Prerequisites</h3>
+
+Here you list all prerequisites necessary for running your project. For example:
+
+- [NodeJS](https://nodejs.org/en/download/package-manager)
+- [Git](https://www.git-scm.com/download/win)
+ 
+<h3>Cloning</h3>
 
 1. First of all you need to clone the repository
 ```shell
@@ -75,8 +112,11 @@ npm i
 6. Create .env file in client folder in below mentioned format 
 ```shell
 NEXT_PUBLIC_API_BASE_URL=API url (You can use this: http://localhost:3000/api)
+
 NEXT_PUBLIC_PROVIDER_URL=Alchemy url with your API key (For example: https://eth-sepolia.g.alchemy.com/v2/xxxxxxxxxxxxxxx)
+
 NEXT_PUBLIC_CONTRACT_ADDRESS=Address of your contract (You will get this after deploy your contract)
+
 NEXT_PUBLIC_PRIVATE_KEY=Your Metamask Private Key (Get it from point 5)
 ```
 
@@ -97,6 +137,55 @@ npx hardhat run scripts/deploy.js --network sepolia
 9. Run your client
 ```shell
 cd ..
-cd smart-contract
+cd client
 npm run dev
 ```
+
+
+
+
+
+ 
+<h2 id="colab">🤝 Collaborators</h2>
+
+<p>Special thank you for all people that contributed for this project.</p>
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/Roxie2003">
+<img src="https://avatars.githubusercontent.com/u/59964427?v=4" width="100px;" alt="Ruchita Wagh Profile Picture"/><br>
+<sub>
+<b>Ruchita Wagh</b>
+</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/boradesanket13">
+<img src="https://avatars.githubusercontent.com/u/79108273?v=4" width="100px;" alt="Sanket Borade Profile Picture"/><br>
+<sub>
+<b>Sanket Borade</b>
+</sub>
+</a>
+</td>
+
+</tr>
+</table>
+ 
+<h2 id="contribute">📫 Contribute</h2>
+ ## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+ ## License
+
+Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
