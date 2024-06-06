@@ -152,14 +152,6 @@ npm run dev
 <table>
 <tr>
 
-<td align="center">
-<a href="https://github.com/Roxie2003">
-<img src="https://avatars.githubusercontent.com/u/59964427?v=4" width="100px;" alt="Ruchita Wagh Profile Picture"/><br>
-<sub>
-<b>Ruchita Wagh</b>
-</sub>
-</a>
-</td>
 
 <td align="center">
 <a href="https://github.com/boradesanket13">
