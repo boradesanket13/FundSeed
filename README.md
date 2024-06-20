@@ -12,12 +12,14 @@
 </p>
 
 <br>
+<h2 id="Video">💻 Video</h2>
 
 https://github.com/boradesanket13/FundSeed/assets/79108273/9c5be52c-a316-496c-984a-15c6e25e2100
 
 <br>
 
 <p align="center">
+ <a href="#Video">Video</a>
 <a href="#Features">Features</a>
 <a href="#technologies">Technologies</a>
 <a href="#Screenshots">Screenshots</a>
