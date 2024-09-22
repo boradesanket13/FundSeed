@@ -39,6 +39,17 @@ https://github.com/boradesanket13/FundSeed/assets/79108273/9c5be52c-a316-496c-98
 - Donate or Withdraw Ethereum
 - Decentralized
 
+<h2 id="Project Details">💻 Project Details</h2>
+
+- Developed an ```Ethereum Blockchain```-based Decentralized Finance (```DeFi```) application focused on fundraising for startups, allowing users to create and donate to crowdfunding campaigns using ```Ether```.
+- Designed and implemented smart contracts using ```Solidity``` to securely handle campaign creation, donations, and withdrawals on the blockchain.
+- Integrated ```Metamask``` for wallet authentication, providing a seamless login experience for users.
+- Built a responsive and dynamic user interface with ```Next.js```, and ```TailwindCSS```, ensuring smooth navigation across all devices.
+- Leveraged ```Hardhat``` as the Ethereum development environment and ```Waffle``` for smart contract testing.
+- Used ```Ethers.js``` for interacting with smart contracts and handling Ethereum-based transactions.
+- Implemented features like campaign creation, Ethereum donation processing, and withdrawal functionality, ensuring a decentralized and secure environment.
+- Additionally, provided a dark theme for enhanced user experience and implemented wallet authentication for secure access.
+
 <h2 id="technologies">💻 Technologies</h2>
 
 - [Solidity](https://soliditylang.org/) - Smart Contract Language
