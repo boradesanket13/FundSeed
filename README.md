@@ -175,6 +175,33 @@ npm run dev
 </a>
 </td>
 
+<td align="center">
+<a href="https://github.com/riddhidalal">
+<img src="https://avatars.githubusercontent.com/u/124533399?v=4" width="100px;" alt="Riddhi Dalal Profile Picture"/><br>
+ <sub>
+<b>Riddhi Dalal</b>
+</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/riyasali13">
+<img src="https://avatars.githubusercontent.com/u/118249196?v=4" width="100px;" alt="Riya Sali Profile Picture"/><br>
+ <sub>
+<b>Riya Sali</b>
+</sub>
+</a>
+</td>
+
+
+<td align="center">
+<a href="https://github.com/saivjadhav">
+<img src="https://avatars.githubusercontent.com/u/130738891?v=4" width="100px;" alt="Sai Jadhav Profile Picture"/><br>
+ <sub>
+<b>Sai Jadhav</b>
+</sub>
+</a>
+</td>
 </tr>
 </table>
  
