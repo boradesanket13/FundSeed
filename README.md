@@ -73,7 +73,7 @@ https://github.com/boradesanket13/FundSeed/assets/79108273/9c5be52c-a316-496c-98
 
 ![3](https://github.com/boradesanket13/FundSeed/assets/79108273/c1febe70-4c83-493f-987f-6b7e9526cd3f)
 
-## 🚀Single Campaign Page
+## 🚀Individual Campaign Page
 ![4](https://github.com/boradesanket13/FundSeed/assets/79108273/4ce1e33d-d3de-4b15-9d3a-529b690da8b4)
 
 ## 🚀Profile Page
