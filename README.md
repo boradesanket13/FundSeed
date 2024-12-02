@@ -76,7 +76,7 @@ https://github.com/boradesanket13/FundSeed/assets/79108273/9c5be52c-a316-496c-98
 ## 🚀Single Campaign Page
 ![4](https://github.com/boradesanket13/FundSeed/assets/79108273/4ce1e33d-d3de-4b15-9d3a-529b690da8b4)
 
-## 🚀Camapign Page for Fundraisers
+## 🚀Profile Page
 ![5](https://github.com/boradesanket13/FundSeed/assets/79108273/6bb78683-ec9a-4565-9baf-93a0a970bf06)
 
 ## 🚀Campaign Creation Page
